@@ -5,6 +5,7 @@ import android.os.Bundle
 import android.support.v4.app.Fragment
 import android.support.v4.app.FragmentManager
 import android.support.v7.widget.Toolbar
+import events254.wakenyawawili.com.kedditbysteps.features.news.NewsFragment
 
 class MainActivity : AppCompatActivity() {
 
